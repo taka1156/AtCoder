@@ -13,6 +13,7 @@
 ##　計算系
 - abs
 - +. -, *, /, %, //
+- floor, ceil (切り下げ、切り上げ)
 - 階乗
   ```python
   import math
